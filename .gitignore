@@ -2,3 +2,4 @@
 *.zip
 /dataset*
 /unsplash-dataset/lite/features/*
+CLIP
