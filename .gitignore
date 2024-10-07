@@ -1,0 +1,4 @@
+*.jpg
+*.zip
+/dataset*
+/unsplash-dataset/lite/features/*
